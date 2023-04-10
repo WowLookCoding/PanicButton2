@@ -19,7 +19,7 @@ public class App extends JFrame {
     private JLabel lblBottom;
 
     public App() {
-        this.setTitle("The Panic Button 2!");
+        this.setTitle("The Panic Button 2");
         this.setSize(FRAME_WIDTH, FRAME_HEIGHT);
         this.setLocation(FRAME_X, FRAME_Y);
         this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
