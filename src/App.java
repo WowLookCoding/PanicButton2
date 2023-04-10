@@ -44,7 +44,7 @@ public class App extends JFrame {
         btnPanic.setPreferredSize(new Dimension(200, 200));
         btnPanic.setFont(new Font("Arial", Font.PLAIN, 28));
         btnPanic.setBackground(Color.white);
-        btnPanic.setBorder(BorderFactory.createLineBorder(Color.decode("#7fb7ff"), 2));
+        btnPanic.setBorder(BorderFactory.createLineBorder(Color.decode("#ff70a7"), 2)); 
         btnPanic.setFocusPainted(false);
         
         btnPanic.addActionListener(new ActionListener() {
