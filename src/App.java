@@ -40,7 +40,7 @@ public class App extends JFrame {
         lblBottom.setFont(new Font("Arial", Font.PLAIN, 14));
         
         // Button setup:
-        btnPanic =  new JButton("AAAAAAAA");
+        btnPanic =  new JButton("BBB");
         btnPanic.setPreferredSize(new Dimension(200, 200));
         btnPanic.setFont(new Font("Arial", Font.PLAIN, 28));
         btnPanic.setBackground(Color.white);
